@@ -1,0 +1,10 @@
+FrontEnd/videoplayer/node_modules/
+VideoPlayer.API/obj/
+VideoPlayer.API/bin/
+Repositories/obj/
+Repositories/bin/
+Domain/bin/
+Domain/obj/
+Data/bin/
+Data/obj/
+Data/Migration/
